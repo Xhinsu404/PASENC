@@ -4,13 +4,13 @@ PASENC is a python encryptor that makes python scripts immutable but still execu
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xvenn-03/PASENC/blob/main/Screenshot_PASENC.jpg)
+![Screenshot](https://github.com/Xhinsu404/PASENC/blob/main/Screenshot_PASENC.jpg)
 Installation
 ----
 
-Preferably, you can download PASENC by cloning the [Git](https://github.com/Xvenn-03/PASENC.git) repository:
+Preferably, you can download PASENC by cloning the [Git](https://github.com/Xhinsu404/PASENC.git) repository:
 
-    https://github.com/Xvenn-03/PASENC.git
+    https://github.com/Xhinsu404/PASENC.git
 
 PASENC works out of the box with [Python](https://www.python.org/download/) 
 
